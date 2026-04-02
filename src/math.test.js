@@ -9,7 +9,7 @@ describe('add', () => {
     expect(add(-1, -2)).toBe(-3);
   });
   it('returns the sum of two numbers - case 2', () => {
-    expect(add(3, 5)).toBe(9);
+    expect(add(3, 5)).toBe(8);
   });
 });
 
